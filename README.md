@@ -1,10 +1,10 @@
-## Data Analytics Concepts with Python Notebooks
+# Data Analytics Concepts with Python Notebooks
 
-# Introduction
+## Introduction
 
 Ready to transform raw data into powerful insights? Inside this repository, you'll discover a dynamic collection of Jupyter notebooks, crafted in Python and available exclusively in Spanish, designed to equip you with essential Data Analytics skills. These resources offer practical, hands-on learning, guiding you from programming fundamentals to advanced data manipulation and visualization techniques.
 
-# 📚 Topics Covered
+## 📚 Topics Covered
 
 Each notebook builds your analytical toolkit, covering crucial data analytics domains:
 
